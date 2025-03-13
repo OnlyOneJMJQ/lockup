@@ -111,7 +111,7 @@
   linea = "https://rpc.linea.build"
   linea_sepolia = "https://rpc.sepolia.linea.build"
   localhost = "http://localhost:8545"
-  mainnet = "${MAINNET_RPC_URL}"
+  mainnet = "https://rpc.buildbear.io/improved-blade-226deea9"
   mode = "https://mainnet.mode.network/"
   mode_sepolia = "https://sepolia.mode.network/"
   morph = "https://rpc.morphl2.io"
