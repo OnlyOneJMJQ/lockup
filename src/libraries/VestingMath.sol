@@ -196,7 +196,7 @@ library VestingMath {
                 return withdrawnAmount;
             }
 
-            return streamedAmount;
+            return withdrawnAmount;
         }
     }
 
